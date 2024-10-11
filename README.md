@@ -1,0 +1,1 @@
+This is an algorithm I made to model human behavior based of my understanding of the chemicals in the brain, and the choices of life. The meat of the code is in the MATLAB code. The results are indeed surprisingly human-like, or at least surprisingly Faiyaz-like.
