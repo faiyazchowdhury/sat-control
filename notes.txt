@@ -1,0 +1,45 @@
+Neuron name "Focus" perform a sigmoid operation on after applying different weights to inputs "Senses" set.
+
+The weights are then modified from the feedback of neuron "Result" it provides input to.
+
+
+
+- Can higher-order faculties, "Action" neurons try to change experiences so that "Senses" align to get desired "Result". What is the name of this?
+
+
+- Sigmoids can be represented by differential equation called the logistic curve. Logistic curves do not only have input and output, they have state. If they stop getting their input, whey will diminish slowly. Is there value in keeping this detail?
+
+    - Do different neurons have different growth rates? Do they have different sink rates? Are these rates themselves determined by other neurons?
+
+
+- Do the rate at which the rates change change according to other neurons? I imagine they grow slow with time.
+
+    - Slower neurons will then have to play the game of using "Action" neurons to get the state that they want, rather than training the "Focus" neuron.
+
+- If the Result neuron is the happiness neuron, then it is one of the "Reward" neurons.
+
+
+
+
+* Values: A driver pleasure that becomes a pleasure by connecting to a "Reward" neuron
+- In the youth, connections are made and pruned to Reward neuron, "Senses" neurons are mapped to "Reward". Certain senses will create joy, and others decrease it.
+    - These learnings will slow down with time. Rate of weight change will diminish.
+    - * Preferences: secondary pleasure is created.
+
+    - Then actions, functioning at slower rate at later age, will change, to achieve desired senses to make desired senses for desired reward.
+        - * Passion: tertiary pleasure is created. An action that creates joy.
+        - Maybe Action neurons will then either also become a secondary pleasure, or at least a pathway to primary pleasure. Does the difference matter.
+        - This too will slow down after having been learnt.
+
+
+    - In parallel, diminishing return of pleasure will be observed from same input. Rate of decay of individual neurons will be learned, or at least decay of Reward neurons at the end.
+        - * Art: another tertiary pleasure is created. The joy of modulated sensory inputs to optimize pleasure.
+
+
+    - thought, a neural tool to simulate the future to help to predict the future.
+         - If often accurate, will develop to its own value. What do we call this? The joy of being right?
+
+
+    - * Security: The estimation of guaranteed pleasure is its own pleasure.
+
+    - * Culture: Collection of Values, often communicated to modify another's pleasures.
